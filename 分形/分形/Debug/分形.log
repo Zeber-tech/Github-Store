@@ -1,0 +1,3 @@
+﻿  分形.cpp
+D:\Visual\分形\分形\分形.cpp(168,22): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+  分形.vcxproj -> D:\Visual\分形\Debug\分形.exe
